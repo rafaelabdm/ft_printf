@@ -21,6 +21,7 @@ This project's goal was to reproduce the original printf behavior 😊<br>
 
 > _You have to recode printf_
 <p>
+O objetivo desse projeto é aprender o que são e como implementar funções variáticas.<br>
 This project's goal is to learn what is and how to implement variadic functions.<br>
 </p>
 
